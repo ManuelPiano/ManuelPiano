@@ -1,4 +1,4 @@
-# Manuel Alvarado - Backend Java & Laravel Developer
+# Manuel Alvarado - Backend Java
 
 Hello there! 👋 I'm Manuel Alvarado, a Backend Developer with a passion for programming and continuous learning. I hold a degree in Computer Systems Engineering and work primarily with Java using the Spring Boot framework and PHP with the Laravel framework. Additionally, I have experience in frontend development using Bootstrap, HTML, and CSS.
 
