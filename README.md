@@ -1,5 +1,5 @@
 [![MasterHead](header.png)](github.com/manuelpiano)
-# Manuel Alvarado - Backend Java ![](https://komarev.com/ghpvc/?username=manuelpiano)
+![](https://komarev.com/ghpvc/?username=manuelpiano)
 
 # Technology Stack💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
