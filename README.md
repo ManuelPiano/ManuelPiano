@@ -1,5 +1,7 @@
 # Manuel Alvarado - Backend Java
 
+[![ManuelPiano's GitHub stats](https://github-readme-stats.vercel.app/api?manuelpiano=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Hello there! 👋 I'm Manuel Alvarado, a Backend Developer with a passion for programming and continuous learning. I hold a degree in Computer Systems Engineering and work primarily with Java using the Spring Boot framework and PHP with the Laravel framework. Additionally, I have experience in frontend development using Bootstrap, HTML, and CSS.
 
 ## Skills
@@ -14,6 +16,7 @@ Hello there! 👋 I'm Manuel Alvarado, a Backend Developer with a passion for pr
 - Test-Driven Development (TDD)
 - Agile Development Methodologies (Scrum)
 - SOLID
+- 
 
 ## About Me
 
